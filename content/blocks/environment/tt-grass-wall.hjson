@@ -1,5 +1,5 @@
 type: StaticWall
 name: Grass Wall
 attributes: {
-  tt-wood: 1
+  sand: 1
 }
