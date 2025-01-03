@@ -11,7 +11,7 @@ consumes: {
   
 }
 output: wood
-attribute: tt-wood
+attribute: sand
 ambientSound: drill
 ambientSoundVolume: 0.1
 squareSprite: true
