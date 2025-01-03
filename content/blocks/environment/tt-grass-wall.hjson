@@ -1,5 +1,5 @@
 type: StaticWall
-name: Grass Wall
+name: "Grass Wall"
 attributes: {
   sand: 1
 }
