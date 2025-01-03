@@ -1,0 +1,8 @@
+name: "techdustry"
+displayName: "TechDustry"
+author: "51E0B2217540D831"
+description: "Small mod that expands game with realistic machines"
+version: "0.1"
+minGameVersion: "146"
+dependencies: [ ]
+hidden: false
