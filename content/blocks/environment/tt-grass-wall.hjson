@@ -1,6 +1,5 @@
 type: StaticWall
 name: Grass Wall
-variants: 2
 attributes: {
   tt-wood: 1
 }
