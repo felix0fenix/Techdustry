@@ -1,6 +1,6 @@
 type: StaticTree
 name: Peaceful Pine
-description: A fancy tree enjoying sun... 
+description: "A fancy tree enjoying sun..."
 attributes: {
-  tt-wood: 1
+  tt-wood-attribute: 1
 }
