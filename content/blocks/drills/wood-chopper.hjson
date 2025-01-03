@@ -10,8 +10,7 @@ drillTime: 240
 consumes: {
   
 }
-output: sand
-output: copper
+output: wood
 attribute: wood
 ambientSound: drill
 ambientSoundVolume: 0.1
